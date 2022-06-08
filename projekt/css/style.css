@@ -1,0 +1,63 @@
+
+header{
+    background-position: center center;
+    height: 300px;
+    background-image: url(../img/windows_10_gondok_17.png);
+}
+
+h1{
+    background-color: rgb(156, 144, 144);
+    margin-top: 80px;
+    padding-left: 11rem; 
+    font-family: Verdana;
+    color: brown;
+    border-radius: 5%;
+    border: 2px white solid;
+    box-shadow: black 10px;
+
+}
+
+h2{    
+    margin-top: 10px;   
+    color: blue;
+    border: green;
+    border-left: 3px dotted;
+    font-variant: small-caps;
+    padding: 5px 15px; 
+}
+
+h3{    
+    font-weight: bold;
+    color: lightblue;    
+    text-align: center;
+    font-size: 130%;
+    letter-spacing: 1px;
+}
+
+
+li{
+    list-style-image: url(../img/alma2.jpg);
+    margin-left: 40px;
+    float: left;
+}
+
+
+td,th{
+    text-align: center;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px;    
+}
+.navbar{
+    background-color: azure;
+    border: black 2px solid;
+    position: sticky;
+    top: 0px;
+    font-weight: bold;
+}
+p{
+    text-indent: 15px;
+    text-align: justify;
+}
+
